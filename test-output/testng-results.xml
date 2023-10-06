@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T18:57:11 IST" name="Default suite" finished-at="2023-10-06T18:57:26 IST" duration-ms="14863">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T18:57:11 IST" name="Default test" finished-at="2023-10-06T18:57:26 IST" duration-ms="14863">
+      <class name="seleniumframework.standalone.submitordertest">
+        <test-method is-config="true" signature="Launchapplication()[pri:0, instance:seleniumframework.standalone.submitordertest@38cee291]" started-at="2023-10-06T18:57:11 IST" name="Launchapplication" finished-at="2023-10-06T18:57:16 IST" duration-ms="4839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchapplication -->
+        <test-method signature="submitorder()[pri:0, instance:seleniumframework.standalone.submitordertest@38cee291]" started-at="2023-10-06T18:57:16 IST" name="submitorder" finished-at="2023-10-06T18:57:26 IST" duration-ms="9714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitorder -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:seleniumframework.standalone.submitordertest@38cee291]" started-at="2023-10-06T18:57:26 IST" name="closebrowser" finished-at="2023-10-06T18:57:26 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- seleniumframework.standalone.submitordertest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
